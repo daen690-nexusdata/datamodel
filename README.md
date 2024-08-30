@@ -1,7 +1,7 @@
 # Fentanyl Data Model LLM
 
 ## Problem
-All data is super messy, largely driven by excel spreadsheets. Prone to human error, manually intensive in manipulating the data to extract critical insight.
+Data is currently not organized into a formal data model and is primarily derived from variously formatted Excel spreadsheets. Typically, structuring data into formal data models is prone to human error, tedious, and time-consuming in manipulating the data to extract critical insights.
 
 ## Objective
 To organize the data through formalized data models and load that data into some system that will enable future users to engage the data. Institutionalize the data.
