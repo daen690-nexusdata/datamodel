@@ -20,3 +20,7 @@ Task is highly experimental and exploratory.
 
 ## End Result
 Relational Database in a 3rd normal form(?)
+
+## License
+
+This project is licensed under the Apache License 2.0. See the [LICENSE](./LICENSE) file for more details.
